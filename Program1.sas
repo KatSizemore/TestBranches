@@ -1,0 +1,1 @@
+libname out 'c:\data\tables';
